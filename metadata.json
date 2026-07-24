@@ -1,0 +1,6 @@
+{
+  "name": "VIKASH MEDICAL HALL",
+  "description": "Your Trusted Medical Store in Jehanabad for Genuine Medicines, Healthcare Products, Surgical Supplies & Online WhatsApp Medicine Orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
